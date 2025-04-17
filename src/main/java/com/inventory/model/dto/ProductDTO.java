@@ -1,4 +1,4 @@
-package com.inventory.dto;
+package com.inventory.model.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.PositiveOrZero;
